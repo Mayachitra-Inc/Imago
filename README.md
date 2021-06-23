@@ -4,6 +4,6 @@ Mayachitra Imago is an advanced image database and analysis system designed for 
 
 ### Software Requirements
 Version: 1.0.104.1291 <br />
-Release:July 11, 2010 <br />
+Release: July 11, 2010 <br />
 Operating Systems supported: Windows Vista, Windows, Windows 7, Windows XP <br />
 Additional Requirements: Microsoft .NET Framework 3.5
