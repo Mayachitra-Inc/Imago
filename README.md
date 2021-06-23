@@ -1,7 +1,7 @@
 # Imago
 
 Mayachitra's BioImage Management and Analysis Software
-![alt text](MC_imago.png "Title") <br />
+![alt text](MC_Imago.png "Title") <br />
 
 _Imago_ is an advanced image database and analysis system designed for managing microscopic images. _Imago_ integrates flexible annotation and metadata management with advanced image analysis tools. _Imago_ is simple yet powerful tools that allows scientists to easily manage, organize, analyze a large collection of images. _Imago_ provides a powerful unified search functionality that enables you to search images in one place by image name, annotation, your own tags, image content, or any combination of the above. <br />
 
