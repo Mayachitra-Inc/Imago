@@ -12,7 +12,7 @@ Mayachitra's _Imago_ is an advanced desktop image management package that enable
 
 Version: 1.0.104.1291 <br />
 Release: July 11, 2010 <br />
-Operating Systems supported: Windows XP, Windows 2003, Windows Vista, Windows 7, Windows 10 (in "Windows 7" compatibility mode)
+Operating Systems supported: Windows XP, Windows 2003, Windows Vista, Windows 7, Windows 10 (in "Windows 7" compatibility mode) <br />
 Additional Requirements: Microsoft .NET Framework 3.5
 
 ## Contact Us
