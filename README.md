@@ -25,6 +25,6 @@ Have more questions? Write to us by filling in this <a href="https://mayachitra.
 
 _Imago_ is released under GPL-3.0 License.
 
-Copyright © 2021 [Mayachitra, Inc.](https://mayachitra.com/)
+Copyright © 2026 [Mayachitra, Inc.](https://mayachitra.com/)
 
 
